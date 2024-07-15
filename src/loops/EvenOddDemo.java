@@ -11,5 +11,9 @@ public class EvenOddDemo {
             else
                 System.out.println(i +" odd");
         }
+
+        int b = 10;
+        int a = Integer.valueOf(b);
+        System.out.println("a="+a);
     }
 }
