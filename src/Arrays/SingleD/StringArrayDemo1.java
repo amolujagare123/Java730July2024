@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.SingleD;
 
 public class StringArrayDemo1 {
     public static void main(String[] args) {
