@@ -1,6 +1,4 @@
-package ClaasesNConstructors.pack2;
-
-import ClaasesNConstructors.pack1.Java1;
+package ClaasesNConstructors.pack1;
 
 public class Java3 extends Java1{
 
@@ -19,9 +17,9 @@ public class Java3 extends Java1{
         Java3 j3 = new Java3();
         j3.a = 89; // public
         j3.c = 'h'; // protected
-        j3.d = 89; // private
-        j3.str = 'h'; // default
-        j3.display(); // default
+        j3.d = 56.78; // private
+        j3.str = "Selenium";
+        j3.display();
 
     }
 
