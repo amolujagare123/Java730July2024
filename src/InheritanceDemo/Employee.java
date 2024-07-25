@@ -11,7 +11,7 @@ public class Employee {
 
 }
 
-class Programmer
+class Programmer extends  Employee
 {
     int bonus = 10000;
 

@@ -7,11 +7,10 @@ public class Java4 {
 
         Java3 j3 = new Java3();
         j3.a = 89;
-
-
+        
 
         j3.a = 89; // public
-        j3.c = 'h'; // protected
+       // j3.c = 'h'; // protected
     }
 
 

@@ -10,7 +10,7 @@ public class Java3 extends Java1{
 
         Java1 ob = new Java1();
         ob.a = 88;
-        ob.c = 'j';
+     /*   ob.c = 'j';
         ob.d = 56.78;
         ob.c = 'h';
         ob.str = "Selenium";
@@ -22,7 +22,7 @@ public class Java3 extends Java1{
         j3.d = 89; // private
         j3.str = 'h'; // default
         j3.display(); // default
-
+*/
     }
 
 
