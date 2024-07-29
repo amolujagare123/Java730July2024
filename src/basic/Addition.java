@@ -12,5 +12,9 @@ public class Addition {
 
         System.out.println(c);
 
+        double d = 89.90;
+
+        System.out.println(d);
+
     }
 }
