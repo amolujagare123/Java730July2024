@@ -15,11 +15,11 @@ public class Student2 {
     public static void staticDemo1()
     {
         System.out.println("staticDemo1");
-        System.out.println("rno="+rno); // non-static - not allowed
-        System.out.println("name="+name); // non-static - not allowed
+     //   System.out.println("rno="+rno); // non-static - not allowed
+     //   System.out.println("name="+name); // non-static - not allowed
         System.out.println("college="+college); // static - allowed
         staticDemo2(); // static - allowed
-        nonStaticDemo1(); // non-static - not allowed
+      //  nonStaticDemo1(); // non-static - not allowed
     }
     public static void staticDemo2()
     {
