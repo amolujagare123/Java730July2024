@@ -25,6 +25,8 @@ public class JDBCDemo2 {
 
         ResultSet rs = st.executeQuery(sql);
 
+        boolean result = rs.next();
+
         while (rs.next())
         {
             System.out.print(rs.getInt("rno")+"\t" );
