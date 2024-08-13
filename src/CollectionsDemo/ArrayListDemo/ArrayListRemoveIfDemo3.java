@@ -30,6 +30,8 @@ public class ArrayListRemoveIfDemo3 {
 
         // remove all the vowels in the list - a,e,i,o,u
 
+        al.removeIf(ch -> ( ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u'   ) );
+
         System.out.println("al="+al);
 
 
